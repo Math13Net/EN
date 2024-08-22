@@ -1,9 +1,9 @@
 # EN - Informations sur l'Education Nationale
 
 
-Chaque jour, être soi-même, libre et heureux
+Chaque jour, être soi-même, libre et heureux 
 -------------------------------------------------------------------------------------------------------
-[]()
+[fais tes devoirs ...](https://youtu.be/i_KP1NuRj9w?si=cMvTXa6SX-B3S2At)
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/TS/blob/master/math_ts.jpg" alt="Math TS" width="600" height="200" border="200" /></a>
 
