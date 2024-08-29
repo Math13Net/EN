@@ -32,6 +32,6 @@ Chaque jour, être soi-même, libre et heureux
 ## <a name="orientation"></a> L'orientation des élèves
 * ### [ParcoursSup](https://eduscol.education.fr/2236/parcoursup-l-orientation-du-lycee-vers-l-enseignement-superieur)
 * ### [Aide à l'orietation Lycée dont Terminale](https://eduscol.education.fr/document/3166/download)
-* ### []()
+* ### [Parcours Métiers - la chaîne tv](https://www.parcoursmetiers.tv/#)
 
 
