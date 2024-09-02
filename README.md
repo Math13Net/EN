@@ -38,7 +38,7 @@ Chaque jour, être soi-même, libre et heureux
 ------------------------------------------------------------------------------------------------
 ## <a name="republique"></a> Les valeurs de la République et la Laïcité
 * ### [laïcité](https://www.education.gouv.fr/la-laicite-l-ecole-12482)
-* ### []()
+* ### [charte de la laïcité - playlist en 19 vidéos de 3 min](https://www.youtube.com/playlist?list=PLjcV9PGUll75ySUZzlk7BVHCLWMxiVHE0)
 * ### []()
 * ### []()
 
