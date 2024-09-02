@@ -13,7 +13,7 @@ Chaque jour, être soi-même, libre et heureux
 
 ## 🚀 [Valeurs de la République et laïcité](#republique)
 
-## 👋 
+## 👋 [inégalités scolaires](#inegalite)
 
 ## 🌐 
 
@@ -40,5 +40,11 @@ Chaque jour, être soi-même, libre et heureux
 * ### [laïcité](https://www.education.gouv.fr/la-laicite-l-ecole-12482)
 * ### [charte de la laïcité - playlist en 19 vidéos de 3 min](https://www.youtube.com/playlist?list=PLjcV9PGUll75ySUZzlk7BVHCLWMxiVHE0)
 * ### [le carré régalien](https://youtu.be/FfMUsDQrEnw?si=YHzZJgD8C1u2f5MY)
+
+------------------------------------------------------------------------------------------------
+## <a name="inegalite"></a> études des inégalités scolaires
 * ### [ips](https://www.education.gouv.fr/l-indice-de-position-sociale-ips-357755)
+
+
+
 
