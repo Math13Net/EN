@@ -34,6 +34,7 @@ Chaque jour, être soi-même, libre et heureux
 * ### [Aide à l'orietation Lycée dont Terminale](https://eduscol.education.fr/document/3166/download)
 * ### [Parcours Métiers - la chaîne tv](https://www.parcoursmetiers.tv/#)
 * ### [choix des spécialités au lycée](https://www.education.gouv.fr/media/160923/download)
+* ### [cordées de la réussite](https://eduscol.education.fr/809/les-cordees-de-la-reussite)
 
 ------------------------------------------------------------------------------------------------
 ## <a name="republique"></a> Les valeurs de la République et la Laïcité
