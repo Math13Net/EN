@@ -11,7 +11,7 @@ Chaque jour, être soi-même, libre et heureux
 
 ## 🔥 [orientationn des élèves](#orientation)
 
-## 🚀 []()
+## 🚀 [Valeurs de la République et laïcité](#republique)
 
 ## 👋 
 
@@ -35,4 +35,10 @@ Chaque jour, être soi-même, libre et heureux
 * ### [Parcours Métiers - la chaîne tv](https://www.parcoursmetiers.tv/#)
 * ### [choix des spécialités au lycée](https://www.education.gouv.fr/media/160923/download)
 
+------------------------------------------------------------------------------------------------
+## <a name="republique"></a> Les valeurs de la République et la Laïcité
+* ### [laïcité](https://www.education.gouv.fr/la-laicite-l-ecole-12482)
+* ### []()
+* ### []()
+* ### []()
 
