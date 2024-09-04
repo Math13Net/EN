@@ -11,7 +11,7 @@ Chaque jour, être soi-même, libre et heureux
 
 ## 🔥 [orientationn des élèves](#orientation)
 
-## 🚀 [Valeurs de la République et laïcité](#republique)
+## 🚀 [valeurs de la République et laïcité](#republique)
 
 ## 👋 [inégalités scolaires](#inegalite)
 
