@@ -15,7 +15,7 @@ Chaque jour, être soi-même, libre et heureux
 
 ## 👋 [inégalités scolaires](#inegalite)
 
-## 🌐 
+## 🌐 [divers](#divers)
 
 ## 😍 
 
@@ -47,6 +47,10 @@ Chaque jour, être soi-même, libre et heureux
 * ### [ips](https://www.education.gouv.fr/l-indice-de-position-sociale-ips-357755) - [données associées](https://data.education.gouv.fr/explore/?sort=modified&q=IPS)
 * ### [une série d'interviews intéressantes sur la mixité sociale - ciblé sur le collège](https://www.ih2ef.gouv.fr/les-podcasts-du-film-annuel-mixite-sociale-et-egalite-des-chances)
 
+------------------------------------------------------------------------------------------------
+## <a name="divers"></a> divers
+* ### [usage du numérique en éducation](https://www.ih2ef.gouv.fr/les-podcasts-du-film-annuel-les-usages-du-numerique-en-education)
+* ### []()
 
 
 
