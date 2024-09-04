@@ -45,6 +45,7 @@ Chaque jour, être soi-même, libre et heureux
 ------------------------------------------------------------------------------------------------
 ## <a name="inegalite"></a> études des inégalités scolaires
 * ### [ips](https://www.education.gouv.fr/l-indice-de-position-sociale-ips-357755) - [données associées](https://data.education.gouv.fr/explore/?sort=modified&q=IPS)
+* ### [une série d'interviews intéressantes sur la mixité sociale](https://www.ih2ef.gouv.fr/les-podcasts-du-film-annuel-mixite-sociale-et-egalite-des-chances)
 
 
 
