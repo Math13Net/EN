@@ -7,6 +7,8 @@ Chaque jour, être soi-même, libre et heureux
 
 <a href="https://youtu.be/hB6bfw622fo" target="_blank"><img src="https://github.com/Math13Net/TS/blob/master/math_ts.jpg" alt="Math TS" width="600" height="200" border="200" /></a>
 
+[circulaire de rentrée 2024-2025](https://eduscol.education.fr/document/60364/download)
+
 ## 🌈 [chiffres clés](#stat)
 
 ## 🔥 [orientationn des élèves](#orientation)
